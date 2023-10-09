@@ -52,9 +52,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions, suggestions, or encounter issues, please feel free to contact the project owner:
 
-- Your Name
-- Email: your@email.com
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
+- Your Navaneethan
+- Email: navaneethanvs18@email.com
+- GitHub: (https://github.com/navanee1609)
 
 
 https://github.com/navanee1609/cook.io/assets/120004894/b3f5eb15-4e00-45e5-8ea4-2d1eb47a7938
